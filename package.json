@@ -1,0 +1,16 @@
+{
+  "name": "redis-connector",
+  "version": "1.0.0",
+  "description": "Redis Server Connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./app/server.js"
+  },
+  "author": "Moe Lwin Hein",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
